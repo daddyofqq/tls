@@ -1,0 +1,3 @@
+[submodule "cryptoecc"]
+	path = cryptoecc
+	url = git@github.com:daddyofqq/cryptoecc.git
